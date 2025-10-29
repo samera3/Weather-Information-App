@@ -63,12 +63,11 @@ Code Structure
 
 
 
+
 WeatherApp.java
 images/
-   ├── sunny.png
-   ├── partly_sunny.png
-   ├── partly_cloudy.png
-   ├── rain.png
-   └── snow.png
-
-ow.png
+├── sunny.png
+├── partly_sunny.png
+├── partly_cloudy.png
+├── rain.png
+└── snow.pngow.png
