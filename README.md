@@ -61,10 +61,14 @@ Acknowledgements
 
 Code Structure
 
+
+
 WeatherApp.java
 images/
-├── sunny.png
-├── partly_sunny.png
-├── partly_cloudy.png
-├── rain.png
-├── snow.png
+   ├── sunny.png
+   ├── partly_sunny.png
+   ├── partly_cloudy.png
+   ├── rain.png
+   └── snow.png
+
+ow.png
