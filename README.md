@@ -59,15 +59,15 @@ Acknowledgements
 	•	OpenWeatherMap API for weather data.
 	•	JavaFX for building the graphical user interface.
 
-Code Structure
 
 
 
+## Code Structure
 
-WeatherApp.java
-images/
-├── sunny.png
-├── partly_sunny.png
-├── partly_cloudy.png
-├── rain.png
-└── snow.pngow.png
+- WeatherApp.java
+- images/
+  - sunny.png
+  - partly_sunny.png
+  - partly_cloudy.png
+  - rain.png
+  - snow.png
